@@ -114,7 +114,7 @@ To sync the remote repository to local
 - `git fetch <alias/origin>`
 
 Later you should merge the remote branch with you local branch
-- `git merge origen/master`
+- `git merge origin/master`
 
 When you was comfortable using these commands, try use `git pull` that means the same as git fetch + git merge
 
