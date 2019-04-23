@@ -9,5 +9,5 @@ I'm created that repo for **studying** things that you must use all the day but 
    - Simple and almost everything you need know ([GitHub - Guide](https://guides.github.com/features/mastering-markdown/ "Mastering Markdown"))
    - A guide good for search and find ([Darin Fireball](https://daringfireball.net/projects/markdown/syntax "Markdown Syntax Documentation"))
    - Markdown Editor online ([Markdown Viewer](https://jbt.github.io/markdown-editor/))
-- [ ] **Git and Github** ([git-commands.md](git-command.md "A cheat sheet"))
+- [x] **Git and Github** ([git-commands.md](git-commands.md "A cheat sheet"))
 
